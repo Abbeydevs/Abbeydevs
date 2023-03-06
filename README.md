@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abbeydevs
+- 👋 Hi, I’m @Abbeydev
 - 👀 I’m interested in ...Software development
 - 🌱 I’m currently learning ...Backend development
 - 💞️ I’m looking to collaborate on ...Github
